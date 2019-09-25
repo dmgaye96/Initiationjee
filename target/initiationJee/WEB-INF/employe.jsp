@@ -36,6 +36,6 @@
 </head>
 <body>
  <h2>Je suis la page admin</h2>
-<a href="${pageContext.request.contextPath}/Employe?action='add'">Lister</a>
+ <a href="${pageContext.request.contextPath}/employe?action='add'"> Liste des Employés <a/>
 </body>
 </html>

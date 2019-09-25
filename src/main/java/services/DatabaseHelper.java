@@ -214,6 +214,8 @@ public class DatabaseHelper {
         }
         return rs;
     }
-    
-    
+
+
+    public void getPstmt(int i, String nom) {
+    }
 }
